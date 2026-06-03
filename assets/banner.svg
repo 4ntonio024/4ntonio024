@@ -1,0 +1,44 @@
+<svg width="1280" height="320" viewBox="0 0 1280 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Antonio Rico - Tu vecino tecnologico">
+  <defs>
+    <linearGradient id="brand" x1="0" y1="0" x2="1280" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2563eb"/>
+      <stop offset="0.55" stop-color="#1B8EB6"/>
+      <stop offset="1" stop-color="#10b981"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="round"><rect width="1280" height="320" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="1280" height="320" fill="url(#brand)"/>
+    <rect width="1280" height="320" fill="url(#fade)"/>
+    <g fill="#ffffff" fill-opacity="0.10">
+      <circle cx="60" cy="40" r="3"/><circle cx="100" cy="40" r="3"/><circle cx="140" cy="40" r="3"/>
+      <circle cx="60" cy="80" r="3"/><circle cx="100" cy="80" r="3"/><circle cx="140" cy="80" r="3"/>
+      <circle cx="60" cy="120" r="3"/><circle cx="100" cy="120" r="3"/><circle cx="140" cy="120" r="3"/>
+    </g>
+    <g stroke="#ffffff" stroke-opacity="0.18" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" fill="none">
+      <path d="M1060 110 L1010 160 L1060 210"/>
+      <path d="M1190 110 L1240 160 L1190 210"/>
+      <path d="M1150 95 L1100 225"/>
+    </g>
+    <g transform="translate(80,128)">
+      <rect x="0" y="0" width="64" height="64" rx="14" fill="#ffffff" fill-opacity="0.16"/>
+      <g stroke="#ffffff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none">
+        <path d="M24 22 L16 32 L24 42"/>
+        <path d="M40 22 L48 32 L40 42"/>
+        <path d="M36 20 L28 44"/>
+      </g>
+    </g>
+    <text x="168" y="158" font-family="'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif" font-size="62" font-weight="800" fill="#ffffff" letter-spacing="-1">Antonio Rico</text>
+    <text x="170" y="206" font-family="'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif" font-size="30" font-weight="600" fill="#ffffff" fill-opacity="0.95">Tu vecino tecnol&#243;gico</text>
+    <text x="170" y="246" font-family="'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif" font-size="20" font-weight="500" fill="#ffffff" fill-opacity="0.85">Webs &#183; Apps &#183; Software a medida &#183; Soporte inform&#225;tico cercano</text>
+    <g transform="translate(170,263)" fill="#ffffff" fill-opacity="0.8">
+      <path d="M9 0C4 0 0 4 0 9 0 16 9 24 9 24 9 24 18 16 18 9 18 4 14 0 9 0Z"/>
+      <circle cx="9" cy="9" r="3.2" fill="#1B8EB6"/>
+    </g>
+    <text x="198" y="280" font-family="'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif" font-size="18" font-weight="500" fill="#ffffff" fill-opacity="0.78">Barcelona &#183; Vall&#232;s Oriental &#183; Girona</text>
+  </g>
+</svg>
