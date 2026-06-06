@@ -1,96 +1,135 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Antonio Rico — Tu vecino tecnológico" width="100%">
-</p>
-
-<h1 align="center">¡Hola! Soy Antonio 👋</h1>
-
-<p align="center">
-  <b>Tu vecino tecnológico.</b> Hago webs, apps y software a medida —<br>
-  y sigo siendo el que repara tu ordenador cuando más lo necesitas.<br>
-  Sin tecnicismos. Sin letra pequeña.
+  <img src="./assets/hero.svg" width="100%" alt="Antonio Rico · Desarrollador web full-stack">
 </p>
 
 <p align="center">
-  <a href="https://antonioricotech.com">
-    <img src="https://img.shields.io/badge/Web-antonioricotech.com-2563eb?style=for-the-badge&logo=astro&logoColor=white" alt="Web">
-  </a>
-  <a href="https://wa.me/34634600286">
-    <img src="https://img.shields.io/badge/WhatsApp-Escríbeme-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
-  <a href="mailto:info@antonioricotech.com">
-    <img src="https://img.shields.io/badge/Email-info@antonioricotech.com-1B8EB6?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email">
-  </a>
-  <a href="https://cal.com/antonioricotgu024/30min">
-    <img src="https://img.shields.io/badge/Agenda-Reserva%2030%20min-10b981?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Agenda">
-  </a>
+  <a href="https://antonioricotech.com"><img src="./assets/pill-web.svg" height="40" alt="Sitio web"></a>&nbsp;
+  <a href="https://wa.me/34634600286"><img src="./assets/pill-whatsapp.svg" height="40" alt="WhatsApp"></a>&nbsp;
+  <a href="mailto:info@antonioricotech.com"><img src="./assets/pill-email.svg" height="40" alt="Email"></a>&nbsp;
+  <a href="https://cal.com/antoniorico/agendar-llamada"><img src="./assets/pill-agenda.svg" height="40" alt="Reservar 10 min"></a>
 </p>
 
 <p align="center">
-  📍 <b>Barcelona · Vallès Oriental · Girona</b>
+  <img src="./assets/divider.svg" width="100%" alt="">
 </p>
 
----
+<img src="./assets/header-about.svg" width="200" alt="Sobre mí">
 
-### 🧰 ¿Cómo puedo ayudarte?
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🏠 Hogar</h3>
-      <p align="center"><i>Para personas y familias</i></p>
-      <ul>
-        <li><b>Mantenimiento y reparación</b> — tu equipo lento, con virus o que no arranca.</li>
-        <li><b>Redes y WiFi</b> — cobertura, configuración y problemas de conexión.</li>
-        <li><b>Soporte a domicilio</b> — voy a tu casa y te lo soluciono yo mismo.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">💼 Negocios</h3>
-      <p align="center"><i>Para autónomos y pymes</i></p>
-      <ul>
-        <li><b>Páginas web</b> — desde una web personal a una tienda online.</li>
-        <li><b>Apps y software a medida</b> — soluciones para tu negocio.</li>
-        <li><b>Digitalización</b> — pon tu negocio a funcionar online, sin sustos.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🛠️ Con qué trabajo
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Astro">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare">
+<p align="justify">
+Hago que la tecnología trabaje para tu negocio. Soy <b>Antonio</b>, desarrollador <b>full-stack</b> con base en Barcelona: construyo sitios y aplicaciones web a medida que no solo lucen bien, sino que dan resultados. Mi herramienta principal es <b>Astro</b>, con la que creo sitios estáticos ultrarrápidos y optimizados para SEO; cuando el proyecto lo pide, sumo React, Next.js y TypeScript, con Node, Express y PostgreSQL en el back. Integro lo que un producto real necesita: pagos, IA y automatizaciones. Vengo del soporte técnico, así que entiendo los problemas del día a día y los explico sin jerga. Mi forma de trabajar es simple: presupuesto claro, sin letra pequeña y un resultado que habla por sí solo.
 </p>
 
----
-
-### 📊 Mi GitHub
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=4ntonio024&show_icons=true&hide_border=true&bg_color=00000000&title_color=2563eb&icon_color=10b981&text_color=64748b" alt="Estadísticas de GitHub" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ntonio024&layout=compact&hide_border=true&bg_color=00000000&title_color=2563eb&text_color=64748b" alt="Lenguajes más usados" height="165">
+  <img src="./assets/about-features.svg" width="700" alt="Desarrollo full-stack · Soporte y digitalización · De la idea al despliegue · Presencial y remoto · Rendimiento y SEO · Español e inglés">
 </p>
 
----
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" alt="">
+</p>
 
-### 📬 Hablemos
+<img src="./assets/header-stack.svg" width="360" alt="Stack & herramientas">
 
-¿Tienes una idea, un proyecto o algo que no funciona? Cuéntamelo —
-te doy un presupuesto claro, sin compromiso y sin sorpresas.
+<p align="center"><img src="./assets/label-stack.svg" height="18" alt="Stack"></p>
 
 <p align="center">
-  🌐 <a href="https://antonioricotech.com">antonioricotech.com</a> &nbsp;·&nbsp;
-  💬 <a href="https://wa.me/34634600286">WhatsApp</a> &nbsp;·&nbsp;
-  ✉️ <a href="mailto:info@antonioricotech.com">info@antonioricotech.com</a> &nbsp;·&nbsp;
-  📅 <a href="https://cal.com/antonioricotgu024/30min">Reservar 30 min</a>
+  <img src="./assets/tech-astro.svg" height="40" alt="Astro">
+  <img src="./assets/tech-nextjs.svg" height="40" alt="Next.js">
+  <img src="./assets/tech-react.svg" height="40" alt="React">
+  <img src="./assets/tech-typescript.svg" height="40" alt="TypeScript">
+  <img src="./assets/tech-tailwind.svg" height="40" alt="Tailwind CSS">
+  <img src="./assets/tech-nodejs.svg" height="40" alt="Node.js">
+  <img src="./assets/tech-express.svg" height="40" alt="Express">
+  <img src="./assets/tech-postgresql.svg" height="40" alt="PostgreSQL">
+  <img src="./assets/tech-sqlite.svg" height="40" alt="SQLite">
+  <img src="./assets/tech-supabase.svg" height="40" alt="Supabase">
+  <img src="./assets/tech-stripe.svg" height="40" alt="Stripe">
+  <img src="./assets/tech-openai.svg" height="40" alt="OpenAI / Anthropic">
+  <img src="./assets/tech-shadcn.svg" height="40" alt="shadcn/ui">
+  <img src="./assets/tech-s3.svg" height="40" alt="S3 / R2">
+</p>
+
+<p align="center"><img src="./assets/label-tools.svg" height="18" alt="Herramientas"></p>
+
+<p align="center">
+  <img src="./assets/tool-vscode.svg" height="40" alt="VS Code">
+  <img src="./assets/tool-cursor.svg" height="40" alt="Cursor">
+  <img src="./assets/tool-claude.svg" height="40" alt="Claude">
+  <img src="./assets/tool-github.svg" height="40" alt="Git + GitHub">
+  <img src="./assets/tool-docker.svg" height="40" alt="Docker">
+  <img src="./assets/tool-githubactions.svg" height="40" alt="GitHub Actions">
+  <img src="./assets/tool-onepassword.svg" height="40" alt="1Password / Doppler">
+</p>
+
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" alt="">
+</p>
+
+<img src="./assets/header-projects.svg" width="235" alt="Proyectos">
+
+### [places-api-lead-finder](https://github.com/4ntonio024/places-api-lead-finder)
+
+Google Apps Script que convierte la **Places API (New)** en una lista filtrable de negocios locales **sin página web**, directamente en **Google Sheets**. No es un scraper: usa la API oficial y cuesta **~0 €/mes**.
+
+![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?logo=google&logoColor=white)
+![Language: JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Places API: New](https://img.shields.io/badge/Places%20API-New-34A853)
+![Cost: ~$0/month](https://img.shields.io/badge/cost-~%240%2Fmonth-success)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+**Flujo general**
+
+```mermaid
+flowchart LR
+  A["Google Places API (New)"] --> B["Google Apps Script (filtros y lógica)"]
+  B --> C["Google Sheets (lista de leads)"]
+```
+
+**Cómo clasifica cada negocio**
+
+```mermaid
+flowchart LR
+  A["Config sheet<br/>areas × niches"] --> B["Places API<br/>searchText (New)"]
+  B --> C{"websiteUri?"}
+  C -- "empty" --> D["NO WEBSITE"]
+  C -- "social / builder" --> E["WEAK WEBSITE"]
+  C -- "real domain" --> F["HAS WEBSITE<br/>(skipped by default)"]
+  D --> G["Leads sheet"]
+  E --> G
+```
+
+<details>
+<summary><b>Cómo funciona y por qué es útil</b></summary>
+<br>
+<ul>
+<li><b>Busca</b> negocios por tipo y zona con la Places API oficial de Google.</li>
+<li><b>Filtra</b> automáticamente los que no tienen web, justo los que más la necesitan.</li>
+<li><b>Vuelca</b> los resultados en Google Sheets: nombre, teléfono, dirección y más.</li>
+<li><b>Coste</b>: prácticamente 0 € al mes gracias a la capa gratuita de la API.</li>
+<li><b>Caso de uso</b>: prospección comercial para quien ofrece desarrollo web o servicios digitales.</li>
+</ul>
+</details>
+
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" alt="">
+</p>
+
+<p align="center"><img src="./assets/label-it.svg" height="16" alt="También · IT y Soporte"></p>
+
+<p align="center"><sub>Ordenadores a medida · Home labs · Redes y servidores · Mantenimiento y soporte · <a href="https://antonioricotech.com">antonioricotech.com</a></sub></p>
+
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" alt="">
+</p>
+
+<img src="./assets/header-contact.svg" width="200" alt="Contacto">
+
+¿Tienes una idea, un proyecto o algo que mejorar? Cuéntamelo y te doy un presupuesto claro, sin compromiso.
+
+<p align="center">
+  <a href="https://antonioricotech.com"><img src="./assets/pill-web.svg" height="40" alt="Sitio web"></a>&nbsp;
+  <a href="https://wa.me/34634600286"><img src="./assets/pill-whatsapp.svg" height="40" alt="WhatsApp"></a>&nbsp;
+  <a href="mailto:info@antonioricotech.com"><img src="./assets/pill-email.svg" height="40" alt="Email"></a>&nbsp;
+  <a href="https://cal.com/antoniorico/agendar-llamada"><img src="./assets/pill-agenda.svg" height="40" alt="Reservar 10 min"></a>
 </p>
 
 <p align="center"><sub>Tecnología en tus manos, sin los costes de una multinacional.</sub></p>

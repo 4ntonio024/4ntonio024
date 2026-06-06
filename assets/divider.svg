@@ -1,0 +1,15 @@
+<svg width="900" height="28" viewBox="0 0 900 28" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563eb"/><stop offset="0.5" stop-color="#1B8EB6"/><stop offset="1" stop-color="#10b981"/>
+    </linearGradient>
+  </defs>
+  <line x1="60" y1="14" x2="840" y2="14" stroke="url(#g)" stroke-width="3" stroke-linecap="round" opacity="0.42"/>
+  <g transform="translate(450,14)">
+    <rect x="-7" y="-7" width="14" height="14" rx="3" fill="url(#g)" transform="rotate(45)"/>
+  </g>
+  <circle cy="14" r="5" fill="url(#g)">
+    <animate attributeName="cx" values="60;840;60" dur="12s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.9;1" dur="12s" repeatCount="indefinite"/>
+  </circle>
+</svg>
